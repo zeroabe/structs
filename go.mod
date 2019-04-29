@@ -1,4 +1,4 @@
-module github.com/smgladkovskiy/structs
+module github.com/zeroabe/structs
 
 go 1.12
 
